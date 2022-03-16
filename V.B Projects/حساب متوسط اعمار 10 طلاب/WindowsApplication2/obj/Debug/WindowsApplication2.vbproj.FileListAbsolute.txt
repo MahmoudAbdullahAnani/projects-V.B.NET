@@ -1,0 +1,22 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\حساب متوسط اعمار 10 طلاب\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

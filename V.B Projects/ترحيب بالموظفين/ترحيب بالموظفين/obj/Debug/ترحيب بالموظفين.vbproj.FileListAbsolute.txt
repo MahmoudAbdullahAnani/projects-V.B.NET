@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\bin\Debug\ترحيب بالموظفين.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\bin\Debug\ترحيب بالموظفين.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\bin\Debug\ترحيب بالموظفين.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\bin\Debug\ترحيب بالموظفين.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب بالموظفين.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب_بالموظفين.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب_بالموظفين.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب بالموظفين.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب بالموظفين.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب بالموظفين.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\ترحيب بالموظفين\ترحيب بالموظفين\obj\Debug\ترحيب بالموظفين.pdb

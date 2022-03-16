@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\bin\Debug\استقبال درجات 100 طالب.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\bin\Debug\استقبال درجات 100 طالب.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\bin\Debug\استقبال درجات 100 طالب.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\bin\Debug\استقبال درجات 100 طالب.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال درجات 100 طالب.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال_درجات_100_طالب.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال_درجات_100_طالب.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال درجات 100 طالب.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال درجات 100 طالب.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال درجات 100 طالب.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\استقبال درجات 100 طالب\استقبال درجات 100 طالب\obj\Debug\استقبال درجات 100 طالب.pdb

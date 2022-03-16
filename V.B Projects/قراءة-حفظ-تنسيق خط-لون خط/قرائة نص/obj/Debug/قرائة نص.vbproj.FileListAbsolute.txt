@@ -1,0 +1,15 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\bin\Debug\قرائة نص.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\bin\Debug\قرائة نص.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\bin\Debug\قرائة نص.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\bin\Debug\قرائة نص.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة نص.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة_نص.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة_نص.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة نص.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة نص.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة نص.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\قرائة نص\قرائة نص\obj\Debug\قرائة نص.pdb
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\قراءة-حفظ-تنسيق خط-لون خط\قرائة نص\bin\Debug\قرائة نص.exe.config
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\قراءة-حفظ-تنسيق خط-لون خط\قرائة نص\obj\Debug\قرائة نص.exe
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\قراءة-حفظ-تنسيق خط-لون خط\قرائة نص\obj\Debug\قرائة نص.xml
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\قراءة-حفظ-تنسيق خط-لون خط\قرائة نص\obj\Debug\قرائة نص.pdb

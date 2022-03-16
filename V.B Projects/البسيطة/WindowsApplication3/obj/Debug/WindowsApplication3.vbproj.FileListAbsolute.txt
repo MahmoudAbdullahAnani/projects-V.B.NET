@@ -1,0 +1,15 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\البسيطة\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\البسيطة\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\البسيطة\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Mahmoud\Documents\Visual Studio 2015\Projects\البسيطة\WindowsApplication3\obj\Debug\WindowsApplication3.pdb

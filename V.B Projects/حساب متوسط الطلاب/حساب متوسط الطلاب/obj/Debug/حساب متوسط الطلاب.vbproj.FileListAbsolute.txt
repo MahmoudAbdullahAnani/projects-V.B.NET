@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\bin\Debug\حساب متوسط الطلاب.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\bin\Debug\حساب متوسط الطلاب.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\bin\Debug\حساب متوسط الطلاب.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\bin\Debug\حساب متوسط الطلاب.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب متوسط الطلاب.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب_متوسط_الطلاب.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب_متوسط_الطلاب.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب متوسط الطلاب.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب متوسط الطلاب.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب متوسط الطلاب.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\حساب متوسط الطلاب\حساب متوسط الطلاب\obj\Debug\حساب متوسط الطلاب.pdb

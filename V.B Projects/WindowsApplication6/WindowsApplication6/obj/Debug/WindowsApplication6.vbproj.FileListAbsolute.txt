@@ -1,0 +1,12 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb

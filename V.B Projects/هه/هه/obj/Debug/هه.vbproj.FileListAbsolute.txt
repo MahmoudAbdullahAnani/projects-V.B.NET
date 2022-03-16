@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\bin\Debug\هه.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\bin\Debug\هه.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\bin\Debug\هه.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\bin\Debug\هه.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\هه\هه\obj\Debug\هه.pdb

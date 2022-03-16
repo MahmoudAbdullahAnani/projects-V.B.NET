@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\bin\Debug\طباعة اسماء 50 موظف.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\bin\Debug\طباعة اسماء 50 موظف.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\bin\Debug\طباعة اسماء 50 موظف.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\bin\Debug\طباعة اسماء 50 موظف.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة اسماء 50 موظف.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة_اسماء_50_موظف.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة_اسماء_50_موظف.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة اسماء 50 موظف.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة اسماء 50 موظف.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة اسماء 50 موظف.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\طباعة اسماء 50 موظف\طباعة اسماء 50 موظف\obj\Debug\طباعة اسماء 50 موظف.pdb

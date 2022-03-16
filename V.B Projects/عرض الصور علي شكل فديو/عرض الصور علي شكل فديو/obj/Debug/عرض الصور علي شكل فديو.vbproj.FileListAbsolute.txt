@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\bin\Debug\عرض الصور علي شكل فديو.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\bin\Debug\عرض الصور علي شكل فديو.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\bin\Debug\عرض الصور علي شكل فديو.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\bin\Debug\عرض الصور علي شكل فديو.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض الصور علي شكل فديو.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض_الصور_علي_شكل_فديو.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض_الصور_علي_شكل_فديو.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض الصور علي شكل فديو.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض الصور علي شكل فديو.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض الصور علي شكل فديو.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\عرض الصور علي شكل فديو\عرض الصور علي شكل فديو\obj\Debug\عرض الصور علي شكل فديو.pdb

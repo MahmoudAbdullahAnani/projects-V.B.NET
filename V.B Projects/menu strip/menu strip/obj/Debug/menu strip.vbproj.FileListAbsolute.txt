@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\bin\Debug\menu strip.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\bin\Debug\menu strip.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\bin\Debug\menu strip.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\bin\Debug\menu strip.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu strip.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu_strip.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu_strip.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu strip.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu strip.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu strip.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\menu strip\menu strip\obj\Debug\menu strip.pdb

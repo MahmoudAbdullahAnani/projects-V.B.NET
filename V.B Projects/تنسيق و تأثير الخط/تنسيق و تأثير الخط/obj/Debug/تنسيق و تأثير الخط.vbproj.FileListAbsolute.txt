@@ -1,0 +1,11 @@
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\bin\Debug\تنسيق و تأثير الخط.exe.config
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\bin\Debug\تنسيق و تأثير الخط.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\bin\Debug\تنسيق و تأثير الخط.pdb
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\bin\Debug\تنسيق و تأثير الخط.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق و تأثير الخط.vbprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق_و_تأثير_الخط.Form1.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق_و_تأثير_الخط.Resources.resources
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق و تأثير الخط.vbproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق و تأثير الخط.exe
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق و تأثير الخط.xml
+c:\users\mahmoud\documents\visual studio 2015\Projects\تنسيق و تأثير الخط\تنسيق و تأثير الخط\obj\Debug\تنسيق و تأثير الخط.pdb
